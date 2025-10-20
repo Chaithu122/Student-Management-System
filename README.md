@@ -172,9 +172,9 @@ The Student Management System exposes the following REST APIs:
 
 
 ## 🙏 Acknowledgements
-Special thanks to Spring Boot, Thymeleaf, and MySQL communities for their excellent documentation and support.
+- Special thanks to Spring Boot, Thymeleaf, and MySQL communities for their excellent documentation and support.
 
-Inspired by various open-source student management projects.
+- Inspired by various open-source student management projects.
 
 ## 📫 Contact Me:
 
@@ -182,6 +182,9 @@ Inspired by various open-source student management projects.
 Name: Krishna chaitanya Pigilapu
 
 Email:pigilapuchaithanya123@gmail.com
+
+GitHub: [https://github.com/Chaithu122](https://github.com/Chaithu122)  
+LinkedIn[https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
 
 
 
