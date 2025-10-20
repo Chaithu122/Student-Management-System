@@ -103,6 +103,77 @@ spring.jpa.hibernate.ddl-auto=update
 ## 🗄 Database Configuration
 The project uses MySQL to store student data. Follow these steps to set up the database:
 
+1. Install MySQL 
+
+2. Create a database
+```
+CREATE DATABASE student_db;
+```
+
+3. Configure database credentials in src/main/resources/application.properties:
+
+  ```
+ # Database URL
+spring.datasource.url=jdbc:mysql://localhost:3306/student_db
+
+# Database username
+spring.datasource.username=root
+
+# Database password
+spring.datasource.password=your_password
+
+# Hibernate settings
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+
+```
+
+4. Optional Settings
+
+- spring.jpa.hibernate.ddl-auto can be set to:
+
+- update → Automatically updates the database schema
+
+- create → Creates a new schema every time (all previous data will be lost)
+
+- validate → Validates the schema without changing it
+
+  Once configured, your Spring Boot application will automatically connect to the MySQL database when you run it.
+
+ ## 📸 Screenshots
+ Here are some screenshots of the Student Management System 
+
+ ## 🏠 Home Page
+
+ <img src="https://github.com/user-attachments/assets/f76eed1d-cfba-4f50-810a-6748ef89dac4" alt="homepage"/>
+
+## ➕ Add New Student
+<img src="https://github.com/user-attachments/assets/7934b00b-47f7-414f-af08-bdb6c6379814" alt="add new student"/>
+
+## ✏ Edit Student Details
+<img src="https://github.com/user-attachments/assets/f8c31d56-4858-4260-8bd0-676037073c73" alt="update page"/>
+
+## 🗑 Delete Student 
+<img src="https://github.com/user-attachments/assets/2d491c89-ac91-4156-afea-904efc563e35" alt="deletepage"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
 
 
 
