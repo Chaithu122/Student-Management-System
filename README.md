@@ -158,6 +158,40 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 <img src="https://github.com/user-attachments/assets/2d491c89-ac91-4156-afea-904efc563e35" alt="deletepage"/>
 
 
+## 📡 API Documentation
+
+The Student Management System exposes the following REST APIs:
+
+| *HTTP Method* | *Endpoint*               | *Description*                 |
+|-----------------|---------------------------|---------------------------------|
+| **GET**         | /students               | 📝 Retrieve all students        |
+| **GET**         | /students/{id}          | 🔍 Get a student by ID          |
+| **POST**        | /students               | ➕ Add a new student             |
+| **PUT**         | /students/{id}          | ✏ Update an existing student   |
+| **DELETE**      | /students/{id}          | 🗑 Delete a student             |
+
+
+## 🙏 Acknowledgements
+Special thanks to Spring Boot, Thymeleaf, and MySQL communities for their excellent documentation and support.
+
+Inspired by various open-source student management projects.
+
+## 📫 Contact Me:
+
+
+Name: Krishna chaitanya Pigilapu
+
+Email:pigilapuchaithanya123@gmail.com
+
+
+
+
+
+
+
+
+
+
 
 
 
