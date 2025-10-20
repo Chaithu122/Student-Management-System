@@ -6,17 +6,24 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.Web.Model.Student;
 import com.Web.Service.StudentService;
 
 @Controller
+@RequestMapping("/")
 public class StudentController {
+	
 	private StudentService studentService;
 	
 	public StudentController(StudentService studentService) {
 		super();
 		this.studentService=studentService;
+	}
+	@GetMapping("/")
+	public String home() {
+		return "redirect:/students";
 	}
 	@GetMapping("/students")
 	public String listStudents(Model model) {
