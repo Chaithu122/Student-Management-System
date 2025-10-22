@@ -4,7 +4,7 @@ I develop a Student Management System using Spring Boot, Thymeleaf, and MySQL th
 
 🌐 **Live URL:** 
 
-![Live Demo](https://img.shields.io/badge/Visit-Live%20Site-blue?style=for-the-badge&logo=google-chrome)
+![Live De](http://localhost:5050)
 
 ## 📌 Key Highlights
 - ➕ Add new student details
