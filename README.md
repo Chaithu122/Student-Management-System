@@ -2,9 +2,12 @@
 ## 🎯 Objective
 I develop a Student Management System using Spring Boot, Thymeleaf, and MySQL that demonstrates CRUD operations with a clean MVC architecture, while improving backend development skills and understanding of enterprise Java frameworks.
 
-🌐 **Live URL:** 
 
-![Live De](http://localhost:5050)
+## 🌐 Live Demo
+ Check out the live version of the Student-Management-System here:  
+👉[Live Demo](http://localhost:5050)
+
+
 
 ## 📌 Key Highlights
 - ➕ Add new student details
