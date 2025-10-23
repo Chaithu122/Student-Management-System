@@ -179,6 +179,25 @@ The Student Management System exposes the following REST APIs:
 
 - Inspired by various open-source student management projects.
 
+  ## 👤 Author
+
+**Project Name:** Student Management System  
+
+**Author:** Krishna Chaithanya Pigilapu
+
+**Email:** pigilapuchaithanya123@gmail.com
+
+**GitHub**: [https://github.com/Chaithu122](https://github.com/Chaithu122)  
+
+**About the Author:**
+
+**Passionate Java Full Stack Developer** with a strong foundation in **Core Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, and React JS.** Skilled in building **responsive web applications** and **robust backend systems** using clean and maintainable code.  
+
+Possesses a good understanding of **object-oriented programming, database concepts**, and the **full software development lifecycle**. A **quick learner** with a strong interest in contributing to **innovative and collaborative development environments**.
+
+
+
+
 ## 📫 Contact Me:
 
 
