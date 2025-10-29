@@ -210,7 +210,7 @@ GitHub: [https://github.com/Chaithu122](https://github.com/Chaithu122)
 LinkedIn[https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
 
                     
-   **🙏 Thank you for taking the time to review this project.**
+   **🙏 Thank you for taking the time to review this project.Looking forward to an opportunity to contribute and grow with your team.**
 
 
 
